@@ -18,6 +18,12 @@
       "display_name": "OnHandDrudge",
       "publication_date": "2026-10-24",
       "official_link": "https://github.com/onhandcore/OnHandDrudge"
+    },
+    {
+      "skill_id": "onhandrecallledger",
+      "display_name": "OnHandRecallLedger",
+      "publication_date": "2026-10-24",
+      "official_link": "https://github.com/onhandcore/OnHandRecallLedger"
     }
   ]
 }

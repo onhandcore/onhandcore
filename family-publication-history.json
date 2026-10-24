@@ -22,6 +22,13 @@
       "latest_public_release_date": "2026-10-24",
       "latest_release_published_at": "2026-10-24T10:21:54Z",
       "release_url": "https://github.com/onhandcore/OnHandDrudge/releases/tag/first-public-bilingual-20261024"
+    },
+    {
+      "skill_id": "onhandrecallledger",
+      "first_public_release_date": "2026-10-24",
+      "latest_public_release_date": "2026-10-24",
+      "latest_release_published_at": "2026-10-24T13:08:24Z",
+      "release_url": "https://github.com/onhandcore/OnHandRecallLedger/releases/tag/first-public-bilingual-20261024"
     }
   ]
 }

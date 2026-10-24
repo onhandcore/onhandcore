@@ -40,6 +40,20 @@ The deprecated onhandcore-source account previously published OnHandDrudge v0.1.
 
 The product uses the OnHand Family Closed-Source Distribution License; see its official repository. / 产品适用 OnHand 家族闭源发行许可，详见正式产品仓库。
 
+### [OnHandRecallLedger](https://github.com/onhandcore/OnHandRecallLedger)
+
+The fourth officially published OnHand Core Skill. **Recall** reuses valuable past experience to reduce repeated exploration; **Knowledge** builds reusable, evidence-supported knowledge through real use. The Host owns semantic judgments, material submission and final business decisions; RecallLedger provides contract validation, mechanical persistence, state management and bounded retrieval.
+
+OnHand Core 官方第四个 Skill。**Recall** 复用有价值的历史经验，减少重复探索；**Knowledge** 通过真实使用验证，逐步建立可复用的可信知识。Host 负责语义判断、材料提交及最终业务决策；RecallLedger 负责合同校验、机械持久化、状态管理和有界检索。
+
+OnHandRecallLedger 1.0.0 — First Official Public Bilingual Release / 首次正式公开双语发行：2026-10-24. Published / 实际公开时间：2026-10-24T13:08:24Z.
+
+Windows x64 / CPython 3.12.14; explicit Standalone first-release scope is conditionally ready. The final C01 paired persistence E2E across two independent legally attached Host sessions remains NOT_VERIFIED. See the Release for full verification limits. / Windows x64 / CPython 3.12.14，显式 Standalone 首发范围为有条件就绪；最终 C01 两个独立合法 Host 会话成对持久化 E2E 仍未验证，完整边界见 Release。
+
+[Download and release notes / 下载与发行说明](https://github.com/onhandcore/OnHandRecallLedger/releases/tag/first-public-bilingual-20261024) · [English documentation](https://github.com/onhandcore/OnHandRecallLedger/blob/main/README.md) · [简体中文文档](https://github.com/onhandcore/OnHandRecallLedger/blob/main/README.zh-CN.md)
+
+The product uses the OnHand Family Closed-Source Distribution License; see its official repository. / 产品适用 OnHand 家族闭源发行许可，详见正式产品仓库。
+
 The publication index is maintained in [family-index.json](family-index.json).
 
 The index uses the strict four-field member format. First-publication dates are preserved in [family-publication-history.json](family-publication-history.json); index publication dates follow actual latest official non-prerelease publications. / 索引采用严格四字段格式，首次日期另存历史文件，索引日期以最新正式非预发行 Release 的实际公开日期为准。
