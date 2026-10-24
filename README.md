@@ -26,4 +26,20 @@ First public release / 首次正式公开发布：2026-10-24.
 
 [Download and release notes / 下载与发行说明](https://github.com/onhandcore/OnHandBestFitTool/releases/tag/first-public-bilingual-20261024) · [English documentation](https://github.com/onhandcore/OnHandBestFitTool/blob/main/README.md) · [简体中文文档](https://github.com/onhandcore/OnHandBestFitTool/blob/main/README.zh-CN.md)
 
+### [OnHandDrudge](https://github.com/onhandcore/OnHandDrudge)
+
+The third published Skill under the new OnHand Core official distribution system. **Structured execution governance:** Drudge freezes Work Units and execution identities, gates Steps, and manages Evidence, recovery, and handoff. The Host understands requirements, plans, selects tools, and performs actual tool execution.
+
+OnHand Core 新官方发行体系第三款公开 Skill。**结构化执行治理：** Drudge 负责工作单元与执行身份冻结、Step 门禁、Evidence、恢复及交棒；Host 负责理解需求、规划、工具选择与实际工具执行。
+
+OnHandDrudge 1.0.0 — First Official Bilingual Release under OnHand Core / OnHandDrudge 首次官方双语发行（OnHand Core 新官方发行体系）：2026-10-24. Published / 实际公开时间：2026-10-24T10:21:54Z.
+
+The deprecated onhandcore-source account previously published OnHandDrudge v0.1.0. This release is the current rewritten version’s first official bilingual release under the new system, not the product’s first public release in its entire history. / 旧帐号 onhandcore-source 曾公开发行 v0.1.0；本次是当前重写版本在新体系的首次官方双语发行，不是产品历史上第一次公开发行。
+
+[Download and release notes / 下载与发行说明](https://github.com/onhandcore/OnHandDrudge/releases/tag/first-public-bilingual-20261024) · [English documentation](https://github.com/onhandcore/OnHandDrudge/blob/main/README.md) · [简体中文文档](https://github.com/onhandcore/OnHandDrudge/blob/main/README.zh-CN.md)
+
+The product uses the OnHand Family Closed-Source Distribution License; see its official repository. / 产品适用 OnHand 家族闭源发行许可，详见正式产品仓库。
+
 The publication index is maintained in [family-index.json](family-index.json).
+
+The index uses the strict four-field member format. First-publication dates are preserved in [family-publication-history.json](family-publication-history.json); index publication dates follow actual latest official non-prerelease publications. / 索引采用严格四字段格式，首次日期另存历史文件，索引日期以最新正式非预发行 Release 的实际公开日期为准。

@@ -1,17 +1,23 @@
 {
+  "schema_version": "onhand.family_publications.v1",
   "members": [
     {
-      "repository_url": "https://github.com/onhandcore/OnHandThoroughfare",
-      "name": "OnHandThoroughfare",
-      "id": "onhandthoroughfare",
-      "first_public_release_date": "2026-10-24"
+      "skill_id": "onhandthoroughfare",
+      "display_name": "OnHandThoroughfare",
+      "publication_date": "2026-10-24",
+      "official_link": "https://github.com/onhandcore/OnHandThoroughfare"
     },
     {
-      "id": "onhandbestfittool",
-      "name": "OnHandBestFitTool",
-      "repository_url": "https://github.com/onhandcore/OnHandBestFitTool",
-      "first_public_release_date": "2026-10-24"
+      "skill_id": "onhandbestfittool",
+      "display_name": "OnHandBestFitTool",
+      "publication_date": "2026-10-24",
+      "official_link": "https://github.com/onhandcore/OnHandBestFitTool"
+    },
+    {
+      "skill_id": "onhanddrudge",
+      "display_name": "OnHandDrudge",
+      "publication_date": "2026-10-24",
+      "official_link": "https://github.com/onhandcore/OnHandDrudge"
     }
-  ],
-  "schema_version": "onhand.family_publications.v1"
+  ]
 }

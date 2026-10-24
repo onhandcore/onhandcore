@@ -1,0 +1,27 @@
+{
+  "schema_version": "onhand.family_publication_history.v1",
+  "scope": "First and latest official publications under the current onhandcore account and new OnHand Core family distribution system. Historical releases under deprecated accounts are not reclassified. OnHandDrudge v0.1.0 was previously published by onhandcore-source.",
+  "members": [
+    {
+      "skill_id": "onhandthoroughfare",
+      "first_public_release_date": "2026-10-24",
+      "latest_public_release_date": "2026-10-24",
+      "latest_release_published_at": "2026-10-24T03:54:05Z",
+      "release_url": "https://github.com/onhandcore/OnHandThoroughfare/releases/tag/first-public-bilingual-20261024"
+    },
+    {
+      "skill_id": "onhandbestfittool",
+      "first_public_release_date": "2026-10-24",
+      "latest_public_release_date": "2026-10-24",
+      "latest_release_published_at": "2026-10-24T07:14:56Z",
+      "release_url": "https://github.com/onhandcore/OnHandBestFitTool/releases/tag/first-public-bilingual-20261024"
+    },
+    {
+      "skill_id": "onhanddrudge",
+      "first_public_release_date": "2026-10-24",
+      "latest_public_release_date": "2026-10-24",
+      "latest_release_published_at": "2026-10-24T10:21:54Z",
+      "release_url": "https://github.com/onhandcore/OnHandDrudge/releases/tag/first-public-bilingual-20261024"
+    }
+  ]
+}
