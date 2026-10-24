@@ -1,1 +1,11 @@
-{"schema_version":"onhand.family_publications.v1","members":[]}
+{
+  "members": [
+    {
+      "repository_url": "https://github.com/onhandcore/OnHandThoroughfare",
+      "name": "OnHandThoroughfare",
+      "id": "onhandthoroughfare",
+      "first_public_release_date": "2026-10-24"
+    }
+  ],
+  "schema_version": "onhand.family_publications.v1"
+}
