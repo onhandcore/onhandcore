@@ -5,6 +5,12 @@
       "name": "OnHandThoroughfare",
       "id": "onhandthoroughfare",
       "first_public_release_date": "2026-10-24"
+    },
+    {
+      "id": "onhandbestfittool",
+      "name": "OnHandBestFitTool",
+      "repository_url": "https://github.com/onhandcore/OnHandBestFitTool",
+      "first_public_release_date": "2026-10-24"
     }
   ],
   "schema_version": "onhand.family_publications.v1"
