@@ -29,6 +29,20 @@
       "latest_public_release_date": "2026-10-24",
       "latest_release_published_at": "2026-10-24T13:08:24Z",
       "release_url": "https://github.com/onhandcore/OnHandRecallLedger/releases/tag/first-public-bilingual-20261024"
+    },
+    {
+      "skill_id": "onhandforkjoin",
+      "first_public_release_date": "2026-10-24",
+      "latest_public_release_date": "2026-10-24",
+      "latest_release_published_at": "2026-10-24T17:32:10Z",
+      "release_url": "https://github.com/onhandcore/OnHandForkJoin/releases/tag/v1.4.1"
+    },
+    {
+      "skill_id": "onhandtaskblocks",
+      "first_public_release_date": "2026-10-24",
+      "latest_public_release_date": "2026-10-24",
+      "latest_release_published_at": "2026-10-24T17:33:03Z",
+      "release_url": "https://github.com/onhandcore/OnHandTaskBlocks/releases/tag/v2.0.0"
     }
   ]
 }

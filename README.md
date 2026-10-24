@@ -54,6 +54,30 @@ Windows x64 / CPython 3.12.14; explicit Standalone first-release scope is condit
 
 The product uses the OnHand Family Closed-Source Distribution License; see its official repository. / 产品适用 OnHand 家族闭源发行许可，详见正式产品仓库。
 
+### [OnHandForkJoin](https://github.com/onhandcore/OnHandForkJoin)
+
+Independent Fork–Join concurrency Skill: real Child coordination, deferred and nested Join, cross-window correction, Group Probe, formal RESULT and responsibility closure. Standalone requires neither TaskBlocks nor Thoroughfare.
+
+独立 Fork–Join 并发分合 Skill：真实 Child 协调、延迟与嵌套 Join、跨窗口修正、Group Probe、正式 RESULT 与责任收束。Standalone 不依赖 TaskBlocks 或 Thoroughfare。
+
+OnHandForkJoin 1.4.1 — First official public release / 首次正式公开发行：2026-10-24 (UTC). Published / 实际公开时间：2026-10-24T17:32:10Z.
+
+[Download and release notes / 下载与发行说明](https://github.com/onhandcore/OnHandForkJoin/releases/tag/v1.4.1) · [English documentation](https://github.com/onhandcore/OnHandForkJoin/blob/main/README.md) · [简体中文文档](https://github.com/onhandcore/OnHandForkJoin/blob/main/README.zh-CN.md)
+
+Joint publication batch with independent products, archives and installations. TaskBlocks’ main-window probe is distinct from ForkJoin’s Group Probe. See each product’s actual license and preserved historical/third-party rights. / 同批公开、独立产品、独立构件和安装；TaskBlocks 主窗口探针不同于 ForkJoin Group Probe。许可及历史／第三方权利以各产品实际文件为准。
+
+### [OnHandTaskBlocks](https://github.com/onhandcore/OnHandTaskBlocks)
+
+Visual task console for AI Hosts: task blocks, Fire/STOP requests, automatic submission, dependencies, capsule delivery, main-window probe coordination, recovery, settings and result display. Actual Child execution remains governed by the Host and ForkJoin contracts.
+
+面向 AI Host 的可视化任务炮台：任务方块、Fire／STOP 请求、自动发射、依赖、胶囊投送、主窗口探针协调、恢复、设置及结果展示。真实 Child 执行按 Host 与 ForkJoin 合同进行。
+
+OnHandTaskBlocks 2.0.0 — First official public release / 首次正式公开发行：2026-10-24 (UTC). Published / 实际公开时间：2026-10-24T17:33:03Z.
+
+[Download and release notes / 下载与发行说明](https://github.com/onhandcore/OnHandTaskBlocks/releases/tag/v2.0.0) · [English documentation](https://github.com/onhandcore/OnHandTaskBlocks/blob/main/README.md) · [简体中文文档](https://github.com/onhandcore/OnHandTaskBlocks/blob/main/README.zh-CN.md)
+
+Joint publication batch with independent products, archives and installations. TaskBlocks’ main-window probe is distinct from ForkJoin’s Group Probe. See each product’s actual license and preserved historical/third-party rights. / 同批公开、独立产品、独立构件和安装；TaskBlocks 主窗口探针不同于 ForkJoin Group Probe。许可及历史／第三方权利以各产品实际文件为准。
+
 The publication index is maintained in [family-index.json](family-index.json).
 
 The index uses the strict four-field member format. First-publication dates are preserved in [family-publication-history.json](family-publication-history.json); index publication dates follow actual latest official non-prerelease publications. / 索引采用严格四字段格式，首次日期另存历史文件，索引日期以最新正式非预发行 Release 的实际公开日期为准。

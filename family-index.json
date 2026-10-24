@@ -24,6 +24,18 @@
       "display_name": "OnHandRecallLedger",
       "publication_date": "2026-10-24",
       "official_link": "https://github.com/onhandcore/OnHandRecallLedger"
+    },
+    {
+      "skill_id": "onhandforkjoin",
+      "display_name": "OnHandForkJoin",
+      "publication_date": "2026-10-24",
+      "official_link": "https://github.com/onhandcore/OnHandForkJoin"
+    },
+    {
+      "skill_id": "onhandtaskblocks",
+      "display_name": "OnHandTaskBlocks",
+      "publication_date": "2026-10-24",
+      "official_link": "https://github.com/onhandcore/OnHandTaskBlocks"
     }
   ]
 }
