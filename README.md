@@ -81,3 +81,18 @@ Joint publication batch with independent products, archives and installations. T
 The publication index is maintained in [family-index.json](family-index.json).
 
 The index uses the strict four-field member format. First-publication dates are preserved in [family-publication-history.json](family-publication-history.json); index publication dates follow actual latest official non-prerelease publications. / 索引采用严格四字段格式，首次日期另存历史文件，索引日期以最新正式非预发行 Release 的实际公开日期为准。
+
+
+## Interfaces & Tools / 接口与工具
+
+### [OnHandDock（接入坞）](https://github.com/onhandcore/OnHandDock)
+
+**Standalone Utility · Windows V1 · 1.0.0**. An independent external Skill connection utility providing lightweight, removable native Host wiring through Windows Junctions. No OnHandThoroughfare installation is required. Native SKILL.md connections are preferred; the package includes an MCP stdio client fallback interface, not an MCP Server. Users explicitly choose the source Skill, Host root and permissions. Python is required; readable runtime source remains under the family closed-source distribution license.
+
+独立外置 Skill 接入工具，通过 Windows Junction 提供轻量、可拆卸的 Host 原生接线，不强制依赖中央大道。原生 SKILL.md 连接优先，MCP stdio 仅为客户端备用接口，本包不含 MCP Server。用户明确选择源 Skill、Host 根及权限；需自行安装适用 Python，可读运行源码仍遵循家族闭源发行许可。Dock 是独立工具，不是新增 Skill；不加入 Skill 专用 family-index.json。
+
+First official public release / 首次正式公开发行：**2026-10-25 (Asia/Shanghai)**. Published / 实际公开时间：2026-10-25T01:51:19Z.
+
+[Official repository / 官方仓库](https://github.com/onhandcore/OnHandDock) · [Download and release notes / 下载与发行说明](https://github.com/onhandcore/OnHandDock/releases/tag/v1.0.0) · [English](https://github.com/onhandcore/OnHandDock/blob/main/README.md) · [简体中文](https://github.com/onhandcore/OnHandDock/blob/main/README.zh-CN.md)
+
+WorkBuddy evidence is limited to 5.8.2; patched native.py received focused regression, with full Host E2E not repeated. / WorkBuddy 证据仅限 5.8.2，修补版 native.py 仅执行定向回归，未重跑完整 Host E2E。
